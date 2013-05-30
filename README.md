@@ -2,7 +2,7 @@ BootstrapDialog2
 ================
 
 By extending the DDSocialDialog, it changes the backcolor to like Twitter Bootstrap.  
-You can use as input interface.
+You can use as input interface in iOS App for iPhone or iPad.
 
 ![type0](http://nntp.ie-t.net/images/type0.png "type0")
 ![type1](http://nntp.ie-t.net/images/type1.png "type1")
