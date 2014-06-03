@@ -1,4 +1,4 @@
-BootstrapDialog2
+BootstrapDialog
 ================
 
 By extending the DDSocialDialog, it changes the backcolor to like Twitter Bootstrap.  
