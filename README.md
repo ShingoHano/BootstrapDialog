@@ -4,17 +4,17 @@ BootstrapDialog
 By extending the DDSocialDialog, it changes the backcolor to like Twitter Bootstrap.  
 You can use as input interface in iOS App for iPhone or iPad.
 
-![type0](http://nntp.ie-t.net/images/type0.png "type0")
-![type1](http://nntp.ie-t.net/images/type1.png "type1")
-![type2](http://nntp.ie-t.net/images/type2.png "type2")  
-![type3](http://nntp.ie-t.net/images/type3.png "type3")
-![type4](http://nntp.ie-t.net/images/type4.png "type4")
-![type5](http://nntp.ie-t.net/images/type5.png "type5")  
-![type6](http://nntp.ie-t.net/images/type6.png "type6")
-![type7](http://nntp.ie-t.net/images/type7.png "type7")
-![type8](http://nntp.ie-t.net/images/type8.png "type8")  
-![type9](http://nntp.ie-t.net/images/type9.png "type9")
-![type10](http://nntp.ie-t.net/images/type10.png "type10")
+![type0](http://priolo.wktk.so/images/type0.png "type0")
+![type1](http://priolo.wktk.so/images/type1.png "type1")
+![type2](http://priolo.wktk.so/images/type2.png "type2")  
+![type3](http://priolo.wktk.so/images/type3.png "type3")
+![type4](http://priolo.wktk.so/images/type4.png "type4")
+![type5](http://priolo.wktk.so/images/type5.png "type5")  
+![type6](http://priolo.wktk.so/images/type6.png "type6")
+![type7](http://priolo.wktk.so/images/type7.png "type7")
+![type8](http://priolo.wktk.so/images/type8.png "type8")  
+![type9](http://priolo.wktk.so/images/type9.png "type9")
+![type10](http://priolo.wktk.so/images/type10.png "type10")
 
 
 
